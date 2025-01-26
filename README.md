@@ -6,6 +6,10 @@ A command line trading application, optimized for low latency trading requests u
 
 Deribit API Reference: https://docs.deribit.com/
 
+## Demo
+
+https://github.com/user-attachments/assets/bb979f66-d2bb-4e06-b3b6-34fc246b32c6
+
 ## Usage
 
 1. Rename the file `api_key.json.sample` in the project-root directory to `api_key.json`. Add the client-id and client-secret from you Deribit API Key (found in the API section in the settings)
